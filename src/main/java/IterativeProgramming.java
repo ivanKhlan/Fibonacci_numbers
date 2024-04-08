@@ -1,7 +1,7 @@
 /**
- * complexity	iterative	recursive	dynamic programming
- * time	          O(n)	    O(2^n)	        O(n)
- * space	      O(1)	    O(n)	        O(n)
+ * complexity	iterative
+ * time	          O(n)
+ * space	      O(1)
  */
 public class IterativeProgramming {
 

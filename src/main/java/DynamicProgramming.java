@@ -2,9 +2,9 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * complexity	iterative	recursive	dynamic programming
- * time	          O(n)	    O(2^n)	        O(n)
- * space	      O(1)	    O(n)	        O(n)
+ * complexity	dynamic programming
+ * time	                O(n)
+ * space	            O(n)
  */
 public class DynamicProgramming {
     private static Map<Integer, Long> memo = new HashMap<>();
